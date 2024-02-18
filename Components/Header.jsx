@@ -8,11 +8,11 @@ const Header = () => {
     },
     {
       name: "Wallet",
-      link: "/create.html",
+      link: "/create",
     },
     {
       name: "Espace Privé",
-      link: "#",
+      link: "https://secure.alliance360.club/auth/login.php",
     },
   ];
   return (
